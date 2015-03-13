@@ -1,0 +1,1 @@
+auto generating script in ruby
